@@ -2,8 +2,7 @@ h1{
 	text-transform:uppercase;
 	text-align:center;
 	border: 3px solid black;
-	background: linear-gradient(to right, black, skyblue, black);
-	color: orange;
+	color: black;
 	font-size:40px;
 }
 ul {
@@ -11,30 +10,39 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: linear-gradient(to right, black, skyblue, black);
 }
 
 li {
-	border: 3px solid black;
 	float: left;
 	font-size: 40px;
 }
 
 li a {
     display: block;
-    color: orange;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	width: 294px;
+	width: 280px;
+}
+
+p{
+	text-align: center;
+	font-size: 30px;
+	color: black;
 }
 
 li a:hover {
     background-color: white;
 }
 body {
-	background: linear-gradient(to right, black, skyblue, black);
+	 background: url("https://metrouk2.files.wordpress.com/2018/03/fortnite-supply-llama.jpg?w=748&h=391&crop=1");
+	 background-position: right top;
+	 background-attachment: fixed;
+	 background-repeat: no-repeat;
+	 background-size: cover;
 }
+
 .Llama{
 	display:block;
     margin-left: auto;

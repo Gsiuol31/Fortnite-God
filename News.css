@@ -1,0 +1,14 @@
+h2{
+	font-weight: 900;
+	font-size: 48px;
+}
+li{
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	background: url("https://metrouk2.files.wordpress.com/2018/03/fortnite-supply-llama.jpg?w=748&h=391&crop=1");
+	background-position: right top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
